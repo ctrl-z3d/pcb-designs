@@ -1,0 +1,59 @@
+# KiCad
+*.bak
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.000
+*.bck
+fp-info-cache
+_autosave-*
+*-save.pro
+*.lck
+sym-lib-table.bak
+fp-lib-table.bak
+
+# KiCad project settings you may want to keep private/local
+*.kicad_prl
+
+# Eagle
+*.b#*
+*.s#*
+*.l#*
+*.b$*
+*.s$*
+*.l$*
+
+# Altium
+*.PcbDoc.Bak*
+*.SchDoc.Bak*
+History/
+Project Outputs*/
+Project Logs*/
+__Previews/
+*.OutJob_*
+
+# Gerbers/output (optional — remove if you want to commit fab outputs)
+*.gbr
+*.drl
+*.pos
+*.gm1
+*.zip
+
+# 3D models cache
+*.step.bak
+*.3dshapes/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor/IDE
+.vscode/
+*.swp
+
+# Python (if using scripts)
+__pycache__/
+*.pyc
+venv/
+.env
