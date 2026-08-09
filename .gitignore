@@ -14,6 +14,7 @@ fp-lib-table.bak
 
 # KiCad project settings you may want to keep private/local
 *.kicad_prl
+.history/
 
 # Eagle
 *.b#*
