@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "KBP206") (type "KiCad") (uri "${KIPRJMOD}/Symbols and Footprints/KB.pretty/KBP206.kicad_sym") (options "") (descr ""))
+)
