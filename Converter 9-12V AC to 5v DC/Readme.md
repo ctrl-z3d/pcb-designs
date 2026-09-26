@@ -5,6 +5,8 @@ A small, DRC-clean KiCad PCB that converts low-voltage AC (from a transformer) i
 
 ## Overview
 
+![3D View](3D%20View.png)
+
 This board takes AC input from a Source, rectifies it, smooths it, and regulates it down to a clean 5V DC rail suitable for powering microcontrollers, sensors, relays, or other low-voltage electronics.
 
 *Input:* 9–12V AC
@@ -31,8 +33,8 @@ AC IN → [Bridge Rectifier D1] → [C3 smoothing] → [L7805] → [C1/C2 decoup
 
 ## Design notes
 
-### KBP260 3D Model
-*IMPORTANT NOTE: The KBP260 3D file is located within the footprints and schematics, kindly add it via KiCAD to view the 3D view of the Rectifier.*
+### KBP206 3D Model
+*IMPORTANT NOTE: The KBP206 3D file is located within the footprints and schematics, kindly add it via KiCAD to view the 3D view of the Rectifier.*
 
 ### Why 9–12V AC input
 
