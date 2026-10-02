@@ -1,6 +1,6 @@
 # 5V Linear Power Supply (AC-DC, L7805-based)
 
-A small, DRC-clean KiCad PCB that converts low-voltage AC (from a transformer) into a regulated 5V DC output, using a full-wave bridge rectifier and an L7805 linear regulator.
+I designed a small, DRC-clean KiCad PCB that converts low-voltage AC (from a transformer) into a regulated 5V DC output, using a full-wave bridge rectifier and an L7805 linear regulator.
 
 
 ## Overview
