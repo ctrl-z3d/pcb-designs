@@ -1,0 +1,4 @@
+(fp_lib_table
+(version 7)
+(lib (name "MSPM0G3507SPTR") (type "KiCad") (uri "${KIPRJMOD}/Materials/Footprints/MSPM0G3507SPTR.pretty") (options "") (descr ""))
+)
