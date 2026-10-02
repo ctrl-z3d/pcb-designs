@@ -13,9 +13,3 @@ KiCad project files for Phil's Lab video #165.
 
 ## 3D View (Bottom)
 ![3D Bottom](Pictures/4_3D_Bottom.png)
-
-
-
-1. Install [KiCad](https://www.kicad.org/download/).
-2. Open `Phils Lab #165.kicad_pro`.
-3. Use the Schematic Editor and PCB Editor from the project window.
